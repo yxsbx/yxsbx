@@ -1,16 +1,16 @@
 <p align="center">
-    <a href="https://github.com/vaibhavvikas/vaibhavvikas"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/yxsbx/yxsbx"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
-    <a href="https://github.com/vaibhavvikas/vaibhavvikas/graphs/contributors"><img src="https://img.shields.io/github/contributors/vaibhavvikas/vaibhavvikas?color=blue"></a>
-    <a href="https://github.com/vaibhavvikas"><img src="https://img.shields.io/github/stars/vaibhavvikas.svg?color=blue&logo=github"></a>
-    <a href="https://github.com/vaibhavvikas/vaibhavvikas/network/members"><img src="https://img.shields.io/github/forks/vaibhavvikas/vaibhavvikas.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=vaibhavvikas.vaibhavvikas" alt="visitors"/>
+    <a href="https://github.com/yxsbx/yxsbx/graphs/contributors"><img src="https://img.shields.io/github/contributors/yxsbx/yxsbx?color=blue"></a>
+    <a href="https://github.com/yxsbx"><img src="https://img.shields.io/github/stars/yxsbx.svg?color=blue&logo=github"></a>
+    <a href="https://github.com/yxsbx/yxsbx/network/members"><img src="https://img.shields.io/github/forks/yxsbx/yxsbx.svg?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=yxsbx.yxsbx" alt="visitors"/>
 </p>
 
 [![](./scr/header_.png)](#)
 
 > <b>I'm a Software Developer who is a highly motivated person with strong technical, problem-solving with excellent time management, leadership, and team skills who is likely to create an impact on the organization/work, I'm a part of and always loves to socialize and experience new things in life. I have a great experience in Python, Flask, Angular, Node, Microservices and Backend Technologies including Machine Learning.</b>\
-> Want to discuss something? You can reach out to me on discord at <b>Dwanzil#8489</b>.
+> Want to discuss something? You can reach out to me on discord at <b>yas min#0124</b>.
 
 ## 🛠️ Tech Stack:
 ![Python](https://img.shields.io/badge/-Python-555?style=flat&logo=python)&nbsp;
@@ -37,13 +37,13 @@
 
 <table>
     <tr>
-        <td align="center"><a href="https://github.com/vaibhavvikas#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=vaibhavvikas&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/vaibhavvikas#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=vaibhavvikas&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
-        <td rowspan="2" align="center"><a href="https://github.com/vaibhavvikas#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavvikas&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/vaibhavvikas#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavvikas&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+        <td align="center"><a href="https://github.com/yxsbx#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=yxsbx&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/yxsbx#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=yxsbx&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+        <td rowspan="2" align="center"><a href="https://github.comyxsbx#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxsbx&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/yxsbx#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxsbx&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
     </tr>
     <tr>
-        <td align="center"><a href="https://github.com/vaibhavvikas#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavvikas&theme=default"/></a><a href="https://github.com/vaibhavvikas#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavvikas&theme=tokyonight"/></a></td>
+        <td align="center"><a href="https://github.com/yxsbx#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yxsbx&theme=default"/></a><a href="https://github.com/yxsbx#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yxsbx&theme=tokyonight"/></a></td>
     </tr>
     <tr>
-        <td colspan="2" align="center"><a href="https://github.com/vaibhavvikas#gh-light-mode-only"><img src="https://raw.githubusercontent.com/vaibhavvikas/vaibhavvikas/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/vaibhavvikas#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/vaibhavvikas/vaibhavvikas/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+        <td colspan="2" align="center"><a href="https://github.com/yxsbx#gh-light-mode-only"><img src="https://raw.githubusercontent.com/yxsbx/yxsbx/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/yxsbx#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/yxsbx/yxsbx/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
     </tr>
 </table>
