@@ -8,8 +8,10 @@
 
 [![](./scr/header_.png)](#)
 
-> <b>I'm a Software Developer who is a highly motivated person with strong technical, problem-solving with excellent time management, leadership, and team skills who is likely to create an impact on the organization/work, I'm a part of and always loves to socialize and experience new things in life. I have a great experience in Python, Flask, Angular, Node, Microservices and Backend Technologies including Machine Learning.</b>\
-> Want to discuss something? You can reach out to me on discord at <b>yas min#0124</b>.
+> <b>I am passionate about programming, I have skills in Python, Java, JavaScript and CSS. I currently work as a Schedule Manager in a healthcare company in Ireland, currently working from home, where I developed my teamwork, proactivity, organization and time management skills.
+
+I did a 12-month exchange in Europe, which improved my global vision and adaptability. Now, I am looking for a transition to the IT area, looking for opportunities as a junior developer or intern in innovative companies, with the aim of applying my technical skills in exciting projects and contributing to the growth of the organization.</b>\
+> Want to discuss something? You can reach out to me on discord at <b>yxsbx</b>.
 
 ## 🛠️ Tech Stack:
 ![Python](https://img.shields.io/badge/-Python-555?style=flat&logo=python)&nbsp;
