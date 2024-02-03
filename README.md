@@ -8,9 +8,7 @@
 
 [![](./scr/header_.png)](#)
 
-> <b>I am passionate about programming, I have skills in Python, Java, JavaScript and CSS. I currently work as a Schedule Manager in a healthcare company in Ireland, currently working from home, where I developed my teamwork, proactivity, organization and time management skills.
-
-I did a 12-month exchange in Europe, which improved my global vision and adaptability. Now, I am looking for a transition to the IT area, looking for opportunities as a junior developer or intern in innovative companies, with the aim of applying my technical skills in exciting projects and contributing to the growth of the organization.</b>\
+> <b>I am passionate about programming, I have skills in Python, Java, JavaScript and CSS. I currently work as a Schedule Manager in a healthcare company in Ireland, currently working from home, where I developed my teamwork, proactivity, organization and time management skills. I did a 12-month exchange in Europe, which improved my global vision and adaptability. Now, I am looking for a transition to the IT area, looking for opportunities as a junior developer or intern in innovative companies, with the aim of applying my technical skills in exciting projects and contributing to the growth of the organization.</b>\
 > Want to discuss something? You can reach out to me on discord at <b>yxsbx</b>.
 
 ## 🛠️ Tech Stack:
