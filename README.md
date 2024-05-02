@@ -5,8 +5,6 @@
     <a href="https://github.com/yxsbx/yxsbx/network/members"><img src="https://img.shields.io/github/forks/yxsbx/yxsbx.svg?color=blue&logo=github"></a>
 </p>
 
-[![](./scr/header_.png)](#)
-
 > <b>Passionate about programming and technology, I have consolidated skills in Python, Java, JavaScript and CSS. I currently work as a Schedule Manager at a healthcare company in Ireland, where I have improved skills in teamwork, proactivity, organization and time management. The career transition to IT was motivated by a discovery of passion for technology during my internship in compliance, while still studying Law. Just before a 12-month exchange in Europe, I started studying Computer Science, reinforcing my commitment to software development, especially in the backend. I am looking for opportunities as a junior developer or IT intern and I have been preparing myself financially and academically for this career transition for over a year. With the aim of joining innovative companies and applying my technical skills to challenging projects, I am ready to contribute to organizational growth and continue my journey of learning and professional development in the technology area, following my true calling and realizing my dream of programming.</b>\
 > Want to discuss something? You can reach out to me on discord at <b>yxsbx</b>.
 
